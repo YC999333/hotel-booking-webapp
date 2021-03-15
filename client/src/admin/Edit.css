@@ -1,0 +1,10 @@
+.admin_error {
+  color: red;
+  font-size: medium;
+}
+
+.serverErrorMSG {
+  color: red;
+  font-size: large;
+  margin-top: 10px;
+}
